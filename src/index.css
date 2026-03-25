@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.container{
+  margin: 0 auto;
+  padding: 0px 30px;
+}
+
+
+@theme{
+    --color-violet-700: #6C5FBC;
+}
